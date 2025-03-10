@@ -1,3 +1,7 @@
-# ML-data-cleaning
+# ML_Data_cleaning, Svm, LogisticRegression
 
-Descriptive statistics, finding missing values, various imputations like median imputation and KNN imputer
+Data cleaning---Descriptive statistics, finding missing values, various imputations like median imputation and KNN imputer, 
+
+SVM--program using svm
+
+LogisticRegression---program using logistic regression
